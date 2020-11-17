@@ -1,0 +1,12 @@
+{
+  "name": "upload_firestore_db",
+  "version": "0.1",
+  "description": "Project about upload data into firestore db for CONPRES",
+  "main": "index.js",
+  "repository": " https://github.com/JhordanJulcamoro/uploadFirestoreDb.git",
+  "author": "Jhordan Julcamoro",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^8.0.2"
+  }
+}
